@@ -1,0 +1,5 @@
+node_modules
+lib
+demo
+.cache
+.nyc_output
